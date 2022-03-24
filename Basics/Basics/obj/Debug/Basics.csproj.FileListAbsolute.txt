@@ -1,0 +1,7 @@
+D:\Assignments\C-Sharp_Basics\Basics\Basics\bin\Debug\Basics.exe.config
+D:\Assignments\C-Sharp_Basics\Basics\Basics\bin\Debug\Basics.exe
+D:\Assignments\C-Sharp_Basics\Basics\Basics\bin\Debug\Basics.pdb
+D:\Assignments\C-Sharp_Basics\Basics\Basics\obj\Debug\Basics.csproj.AssemblyReference.cache
+D:\Assignments\C-Sharp_Basics\Basics\Basics\obj\Debug\Basics.csproj.CoreCompileInputs.cache
+D:\Assignments\C-Sharp_Basics\Basics\Basics\obj\Debug\Basics.exe
+D:\Assignments\C-Sharp_Basics\Basics\Basics\obj\Debug\Basics.pdb
