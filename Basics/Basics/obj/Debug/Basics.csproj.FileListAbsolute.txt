@@ -5,3 +5,10 @@ D:\Assignments\C-Sharp_Basics\Basics\Basics\obj\Debug\Basics.csproj.AssemblyRefe
 D:\Assignments\C-Sharp_Basics\Basics\Basics\obj\Debug\Basics.csproj.CoreCompileInputs.cache
 D:\Assignments\C-Sharp_Basics\Basics\Basics\obj\Debug\Basics.exe
 D:\Assignments\C-Sharp_Basics\Basics\Basics\obj\Debug\Basics.pdb
+D:\Assignments\Basics\Basics\bin\Debug\Basics.exe.config
+D:\Assignments\Basics\Basics\bin\Debug\Basics.exe
+D:\Assignments\Basics\Basics\bin\Debug\Basics.pdb
+D:\Assignments\Basics\Basics\obj\Debug\Basics.csproj.AssemblyReference.cache
+D:\Assignments\Basics\Basics\obj\Debug\Basics.csproj.CoreCompileInputs.cache
+D:\Assignments\Basics\Basics\obj\Debug\Basics.exe
+D:\Assignments\Basics\Basics\obj\Debug\Basics.pdb

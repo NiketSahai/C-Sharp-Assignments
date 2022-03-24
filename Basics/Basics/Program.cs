@@ -10,12 +10,12 @@ namespace Basics
             Console.WriteLine("Excercise 2");
             Console.WriteLine("Excercise 3");
 
-            byte exerciseChoice=0;
             Console.Write("Select exercise of your choice(1, 2, 3): ");
-            exerciseChoice = Convert.ToByte(Console.ReadLine());
+            byte exerciseChoice = Convert.ToByte(Console.ReadLine());
 
             switch (exerciseChoice)
             {
+                #region Exercise 1
                 case 1:
                     Console.Clear();
                     Console.WriteLine("Enter any Number: ");
@@ -28,32 +28,82 @@ namespace Basics
                     byte ex1Choice = Convert.ToByte(Console.ReadLine());
                     switch (ex1Choice)
                     {
+                        #region Convert to int
                         case 1:
-                            Console.WriteLine("Converting using int.Parse: {0}", int.Parse(num));
-                            Console.WriteLine("Converting using Convert.ToInt: {0}", Convert.ToInt32(num));
+                            try
+                            {
+                                Console.WriteLine("Converting using int.Parse: {0}", int.Parse(num));
+                            }
+                            catch (FormatException)
+                            {
+                                Console.WriteLine("Unable to convert {0} to double using int.Parse", num);
+                            }
+                            try
+                            {
+                                Console.WriteLine("Converting using Convert.ToInt: {0}", Convert.ToInt32(num));
+                            }
+                            catch (FormatException)
+                            {
+                                Console.WriteLine("Unable to convert {0} to double using Convert.ToInt32", num);
+                            }
                             int a;
                             Console.WriteLine("Converting using int.tryParse: {0}", int.TryParse(num, out a));
                             Console.ReadLine();
                             break;
+                            #endregion
 
+                        #region Convert to Float
                         case 2:
-                            Console.WriteLine("Converting using Convert.ToDouble: {0}", Convert.ToDouble(num));
-                            Console.WriteLine("Converting using float.Parse: {0}", float.Parse(num));
-                            Console.WriteLine("Converting using Convert.ToSingle: {0}", Convert.ToSingle(num));
+                            try
+                            {
+                                Console.WriteLine("Converting using Convert.ToDouble: {0}", Convert.ToDouble(num));
+                            }
+                            catch (FormatException)
+                            {
+                                Console.WriteLine("Unable to convert {0} to double using Convert.ToDouble", num);
+                            }
+                            try
+                            {
+                                Console.WriteLine("Converting using float.Parse: {0}", float.Parse(num));
+                            }
+                            catch (FormatException)
+                            {
+                                Console.WriteLine("Unable to convert {0} to double using float.Parse", num);
+                            }
+                            try
+                            {
+                                Console.WriteLine("Converting using Convert.ToSingle: {0}", Convert.ToSingle(num));
+                            }
+                            catch (FormatException)
+                            {
+                                Console.WriteLine("Unable to convert {0} to double using Convert.ToSingle", num);
+                            }
                             Console.ReadLine();
                             break;
+                            #endregion
 
+                        #region Convert to Boolean
                         case 3:
-                            Console.WriteLine("Converting using Convert.ToBoolean: {0}", Convert.ToBoolean(num));
+                            try
+                            {
+                                Console.WriteLine("Converting using Convert.ToBoolean: {0}", Convert.ToBoolean(num));
+                            }
+                            catch (FormatException)
+                            {
+                                Console.WriteLine("Unable to convert {0} to boolean using Convert.ToBoolean", num);
+                            }
+                            
                             bool myVal;
                             Console.WriteLine("Converting using Boolean.tryParse: {0}", Boolean.TryParse(num, out myVal));
                             Console.ReadLine();
                             break;
+                            #endregion
                     }
                     Console.ReadLine();
                     break;
+                    #endregion
 
-
+                #region Exercise 2
                 case 2:
                     Console.Clear();
                     Console.WriteLine("== checks for refference identities");
@@ -74,8 +124,9 @@ namespace Basics
                     Console.WriteLine("\n Result of Comparison using ReferenceEquals() is {0}", object.ReferenceEquals(name, myName));
                     Console.ReadLine();
                     break;
+                    #endregion
 
-
+                #region Exercise 3
                 case 3:
                     Console.Clear();
                     int num1, num2, i, j, flag;
@@ -119,7 +170,7 @@ namespace Basics
                     }
                     Console.ReadLine();
                     break;
-
+                    #endregion
 
                 default:
                     Console.WriteLine("Please Enter a valid choice!!!");
