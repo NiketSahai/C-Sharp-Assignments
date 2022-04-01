@@ -19,21 +19,25 @@ Screenshots of running project are there in the below Demo Section
 ## Demo
 
 Below are the screenshots of working project
-
+- Main Menu
+  ![](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS1.PNG)
+  
 - Linked List
-  ![Linked-List]()
+  ![Linked-List](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS2.PNG)
 
 - Stack
-  ![Stack]()
+  ![Stack](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS3.PNG)
 
 - Queue
   ![Queue]()
 
 - Priority Queue
-  ![Priority-Queue]()
+  ![Priority-Queue](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS4.PNG)
 
 - N-Child Tree
-  ![N-Child Tree]()
+  ![N-Child Tree](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS6.PNG)
+  ![](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS6.PNG)
+  ![](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS8.PNG)
 
 - Hash Table
-  ![Hash-Table]()
+  ![Hash-Table](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS9.PNG)
