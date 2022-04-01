@@ -20,24 +20,31 @@ Screenshots of running project are there in the below Demo Section
 
 Below are the screenshots of working project
 - Main Menu
+
   ![](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS1.PNG)
   
 - Linked List
-  ![Linked-List](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS2.PNG)
+
+  ![](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS2.PNG)
 
 - Stack
-  ![Stack](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS3.PNG)
+
+  ![](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS3.PNG)
 
 - Queue
-  ![Queue]()
+
+  ![](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS4.PNG)
 
 - Priority Queue
-  ![Priority-Queue](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS4.PNG)
+
+  ![](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS5.PNG)
 
 - N-Child Tree
-  ![N-Child Tree](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS6.PNG)
+
+  ![](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS6.PNG)
   ![](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS6.PNG)
   ![](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS8.PNG)
 
 - Hash Table
-  ![Hash-Table](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS9.PNG)
+
+  ![](https://github.com/NiketSahai/C-Sharp-Assignments/blob/main/Assignment_2/ScreenShots/SS9.PNG)
